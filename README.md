@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 My Name is Khanh Ngoc Thai. I'm third-year student in Ho Chi Minh city University of Education. 
+Thank you for giving me the opportunity to introduce myself.
+
+Well. I am Khanh Ngoc Thai and I am from Ho Chi Minh city. I am a final year student at Ho Chi Minh City University of Education. My hobbies are traveling, coding, listening to music and learn the new languages
+
+My major is Information of Technology. My major experience includes knowledge of Tester and Frontend Developer. Therefore, my English level is B2 following the Vietnamese standard. In order to develop my career, I have also equipped myself with two foreign language, Chinese and Japanese 
+
+I hope to find a job opportunity that improve my knowledge and skills.
 
 <!--
 **thaikhanhngoc/thaikhanhngoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
